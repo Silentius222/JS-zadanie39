@@ -5,4 +5,4 @@ function funkcja(tablica){
   return pierwszy;
 }
 
-console.log(array);
+console.log(funkcja(array));
